@@ -1,1 +1,1 @@
-# ipapi-GoL
+# ipapi-GoL (Game of Life)
